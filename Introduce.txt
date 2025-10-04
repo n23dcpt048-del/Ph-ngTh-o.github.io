@@ -7,7 +7,7 @@ I am currently a Software Engineering student at Học Viện Công Nghệ Bưu 
 - Artificial Intelligence and Machine Learning  
 
 🔹 Skills:
-- Programming languages: Python, Java, JavaScript, SQL  
+- Programming languages: Python, Java, JavaScript, SQ
 - Tools: Git, Visual Studio Code, Jira, MySQL  
 - Development process: Agile - Scrum, Waterfall  
 
